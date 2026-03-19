@@ -1,0 +1,27 @@
+# Dataset — trop lourd pour GitHub, à placer localement
+BD_images_prepared/
+BD_images*/
+
+# SAM checkpoint (358 MB — dépasse la limite GitHub)
+sam_vit_b_01ec64.pth
+# Autres gros checkpoints
+*.ckpt
+
+# Cache local — se régénère automatiquement
+__pycache__/
+*.pyc
+descripteurs_cache.pkl
+.ipynb_checkpoints/
+
+# Environnement virtuel
+venv/
+.env/
+env/
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.claude/
