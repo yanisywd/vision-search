@@ -1,6 +1,6 @@
-# Dataset — trop lourd pour GitHub, à placer localement
-BD_images_prepared/
-BD_images*/
+# Autres dossiers images non préparés
+BD_images 3/
+BD_images_resized/
 
 # SAM checkpoint (358 MB — dépasse la limite GitHub)
 sam_vit_b_01ec64.pth
