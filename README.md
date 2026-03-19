@@ -6,6 +6,14 @@ Application complète de **recherche d'images par le contenu** (Content-Based Im
 
 ---
 
+## Aperçu
+
+| Évaluation MAP par descripteur | Pipeline R-CNN |
+|:---:|:---:|
+| ![MAP par descripteur](screenshots/map_descripteurs.png) | ![Détection R-CNN](screenshots/rcnn_detection.png) |
+
+---
+
 ## Lancement
 
 ```bash
